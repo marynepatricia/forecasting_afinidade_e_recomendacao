@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Algoritmo de Afinidade e Recomendação
 
 Este algoritmo calcula a afinidade entre diferentes itens com base nos usuários que compraram ambos os produtos. O objetivo é fornecer sugestões de produtos em um site de e-commerce, melhorando a experiência do usuário ao recomendar itens que possam ser de interesse.
@@ -21,6 +20,3 @@ Este algoritmo calcula a afinidade entre diferentes itens com base nos usuários
 - Os dados foram então armazenados no DataFrame criado anteriormente;
 
 - Por fim, o resultado, mostrando os produtos com maior afinidade, foi apresentado com base na introdução de um ID de produto inicial.
-=======
-Desenvolvendo algoritmo de afinidade e recomendação
->>>>>>> f5a15110320320ba36d1863d5a006089fce29dfa
